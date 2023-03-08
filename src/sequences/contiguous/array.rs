@@ -18,3 +18,17 @@ impl<D> Pair<D> {
 		(self.index, self.data)
 	}
 }
+
+struct Arr<i32, Pair> {
+	length: i32
+}
+
+impl Arr<T> {
+	fn start(&mut self, other: T) {
+		// self.head = Pair{}
+	}
+
+	fn append(&mut self, other: ) {
+		// self.
+	}
+}
