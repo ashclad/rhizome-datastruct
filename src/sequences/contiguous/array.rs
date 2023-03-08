@@ -18,5 +18,3 @@ impl<D> Pair<D> {
 		(self.index, self.data)
 	}
 }
-
-fn main() {}

@@ -23,5 +23,3 @@ impl<D, P, N> Node<D, P, N> {
 		(self.prev, self.data, self.next)
 	}
 }
-
-fn main() {}
